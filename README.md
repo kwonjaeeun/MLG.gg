@@ -21,7 +21,7 @@ We inquire data of League of Legends game users through API and provide details 
 
 # Flow Chart
 
-<img src="/documents/storyboard.png"></img>
+<img src="/documents/flow.png"></img>
 
 # 🔗UI-Design
 
