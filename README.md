@@ -43,6 +43,3 @@ We inquire data of League of Legends game users through API and provide details 
 
 <a href="https://github.com/koreait0000/MLG.gg/issues/15">🔗 Team Information Link</a> 
 
-# 🔗구현 페이지
-
-<a href="https://github.com/koreait0000/MLG.gg/issues/15">🔗 Team Information Link</a> 
