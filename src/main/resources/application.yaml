@@ -7,9 +7,9 @@ spring:
     include: oauth
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://mlg.ckhnav7yzn73.ap-northeast-2.rds.amazonaws.com:3306/mlg
-    username: admin
-    password: koreait1234
+    url: jdbc:mariadb://localhost:3308/mlg
+    username: root
+    password: 1234
   servlet:
     multipart:
       max-file-size: 5MB
@@ -62,7 +62,7 @@ spring:
             user-name-attribute: response
             # JSON 형태에서 "response"라는 key값에 해당하는 value에 회원 정보가 담겨져있다.
   sendgrid:
-    api-key: RGAPI-d050a25b-e46a-4268-b6c3-a08bc2593bdd
+    api-key: RGAPI-526d15b7-0139-460c-b33c-57ba24a95ccc
 mybatis:
   mapper-locations: mapper/**/*.xml
   type-aliases-package: com.gg.mlg
