@@ -21,7 +21,7 @@ We inquire data of League of Legends game users through API and provide details 
 
 # Flow Chart
 
-<img src="/documents/storyboard.png"></img>
+<img src="/documents/flow.PNG"></img>
 
 # 🔗UI-Design
 
@@ -42,3 +42,4 @@ We inquire data of League of Legends game users through API and provide details 
 # 🔗Team Information
 
 <a href="https://github.com/koreait0000/MLG.gg/issues/15">🔗 Team Information Link</a> 
+
