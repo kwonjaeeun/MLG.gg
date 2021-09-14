@@ -20,7 +20,7 @@ We inquire data of League of Legends game users through API and provide details 
  
 # 🔗PORT FOLIO RESULT
 
-<a href="https://github.com/koreait0000/MLG.gg/portfolio">🔗 PORT FOLIO RESULT Link</a> 
+<a href="https://github.com/kwonjaeeun/MLG.gg/tree/master/portfolio">🔗 PORT FOLIO RESULT Link</a> 
 
 # Flow Chart
 
