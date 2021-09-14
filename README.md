@@ -17,7 +17,10 @@ We inquire data of League of Legends game users through API and provide details 
  <!--온라인 소셜 네트워크 서비스-->
 - Implementation of additional functions including autonomous tasks and designated tasks 
  <!--자율과제 및 지정과제를 포함한 추가 기능 구현-->
+ 
+# 🔗PORT FOLIO RESULT
 
+<a href="https://github.com/koreait0000/MLG.gg/portfolio">🔗 PORT FOLIO RESULT Link</a> 
 
 # Flow Chart
 
